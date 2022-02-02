@@ -15,10 +15,6 @@ Consignes :
  - Vous redéfinirez également les propriétés x et y de cette classe lorsqu'elle est instanciée, par défaut $x = 450, $y = 450
 
 
-
-
-
-
 Théorie :
 
 L'interet majeur de la programmation orienté objet est le fait de pouvoir étendre les classes, même si le code d'origine
